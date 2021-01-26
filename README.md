@@ -52,13 +52,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/montasim/Online-Snake-Game/blob/master/Resources/home.png?raw=true">
+  <img src="https://github.com/montasim/Online-Snake-Game/blob/main/Resources/home.png?raw=true">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github.com/montasim/Online-Snake-Game/blob/master/Resources/played.png?raw=true">
+  <img src="https://github.com/montasim/Online-Snake-Game/blob/main/Resources/played.png?raw=true">
 </div>
 
 <br>
