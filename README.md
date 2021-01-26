@@ -114,7 +114,7 @@
 <h3 align="center"> Stats </h3>
 
 <p align="center">
-  <img alt=" Github Stats" src = "https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Online-Snake_game&show_icons=true&theme=radical&line_height=27&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
+  <img alt=" Github Stats" src = "https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Online-Snake-Game&show_icons=true&theme=radical&line_height=27&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
 </p>
 
 <br>
